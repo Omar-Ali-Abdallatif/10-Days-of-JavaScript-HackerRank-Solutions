@@ -332,8 +332,8 @@ By completing these challenges, I practiced:
 
 Computer Science student interested in software testing, problem solving, and web development.
 
-- GitHub: [Add your GitHub profile](https://github.com/Omar-Ali-Abdallatif)
-- LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/in/omar-ali-abdallaltif/)
+- GitHub: [Follow Me](https://github.com/Omar-Ali-Abdallatif)
+- LinkedIn: [Follow Me](https://www.linkedin.com/in/omar-ali-abdallaltif/)
 
 ---
 
