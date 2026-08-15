@@ -1,0 +1,42 @@
+
+.container{
+    width: 33%;
+    background-color: lightgray;
+    border: 1px solid lightgray;
+    height: 48px;
+    font-size: 20px;
+}
+
+#btn0 , #btn1{
+    background-color: lightgreen;
+    color: brown;
+}
+
+#btnC , #btnE{
+    background-color: darkgreen;
+    color: white;
+}
+
+.opButtons button{
+    background-color: black;
+    color: red;
+}
+
+div button{
+    width: 25%;
+    height: 36px;
+    font-size: 18px;
+    margin: 0;
+    float: left;
+}
+
+.screen{
+    width: 98%;
+    height: 44px;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 5px;
+    border: 4px solid black;
+
+}
+
